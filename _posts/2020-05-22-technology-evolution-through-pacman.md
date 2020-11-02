@@ -3,7 +3,7 @@ title: Technology Evolution Through Pac-Man
 date: 2020-05-22 09:11
 category: computing 
 author: Tarek Hoteit 
-tags: [video games, retro, ai]
+tags: [video games, retro, ai, pacman]
 summary: 
 ---
 
