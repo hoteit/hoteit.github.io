@@ -1,7 +1,7 @@
 ---
 title: Doug Engelbart documentary released
 date: 2020-09-13 07:00
-category: computing 
+category: computing-history 
 author: 
 tags: [history]
 summary: Douglas Engelbart documentary released

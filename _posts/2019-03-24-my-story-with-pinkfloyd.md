@@ -1,8 +1,8 @@
 ---
 title:  "My Story with Pink Floyd"
 date:   2019-03-24 09:31:00 -0500
-categories: thoughts
-tags: [notes, music]
+categories: notes
+tags: [music]
 ---
 
 Sometime between ‘91 and ‘92 I accidentally saw Pink Floyd Another Brick in the Wall part 2 video on MTV - the scene where school kids turn into ..   Loved the song, so I went and bought a cassette with only The  Wall Part 1 album. Never thought to buy Part 2 at that time. I would then just forward the tape to Another Brick in the Wall part 2 right when the helicopter sound comes up. I stayed doing that for months until one day I thought of playing the whole tape from part 1. I loved it! Right then I went down to the local music store and bought part 2 of The Wall. For some time my world of Pink Floyd was only around The Wall. Never knew anything else existed until I encountered Wish You Were Here on the radio.

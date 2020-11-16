@@ -2,7 +2,7 @@
 layout: single
 title: Vintage Computer Books 
 date: 2020-10-28 11:42
-category: vintage computing 
+category: computing 
 author: books 
 tags: []
 summary: 

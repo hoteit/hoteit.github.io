@@ -1,8 +1,8 @@
 ---
 title: Exciting Periods Ahead for Tech
 date: 2019-06-04T19:19:20-07:00
-categories: thoughts 
-tags: [notes, ai] 
+categories: notes 
+tags: [thoughts] 
 ---
  
 

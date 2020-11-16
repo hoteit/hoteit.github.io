@@ -1,8 +1,8 @@
 ---
 title:  "Women in tech"
 date:   2018-09-26 09:31:00 -0500
-categories: thoughts
-tags: notes 
+categories: notes
+tags: thoughts 
 ---
 
 Cheers to Ada Lovelace, the first computer programmer, Grace Hopper, who pioneered computer programming with COBOL, and all the women in tech who run code, projects, teams, and companies. But cheers is not enough. We need more diversity and inclusion in the computing workforce. According to ncwt.org only 26% of computing workforce in 2017 were women, less than 5% were Asian, 3% were African American, and 1% were Hispanic. Only 17% of the 3.5 million computer-related job openings in 2026 will be filled by US computing bachelor students. Those numbers are

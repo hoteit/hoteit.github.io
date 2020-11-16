@@ -2,7 +2,7 @@
 layout: single 
 title: Moved by Java 
 date: 2020-10-30 09:48
-category: thoughts
+category: notes 
 author: 
 tags: [history]
 summary: 

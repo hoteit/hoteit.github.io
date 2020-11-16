@@ -1,8 +1,8 @@
 ---
 title:  Why 22 hour game-playing and listening to 68 episode podcast matters?
 date:   2019-03-22 09:31:00 -050bb0
-categories: thoughts 
-tags: [video games, notes]
+categories: retro-gaming 
+tags: [video games]
 ---
 
 Thimbleweed Park is an award-winning point-and-click game released in 2017 as a tribute to similar pc and Commodore 64 adventure games in the 80s. It is created by Ron Gilbert and Gary Winnick, with design and development assistance from David Fox, Jenn Sandercock, and numerous other individuals. You control five characters simultaneously in a story that in itself contains multiple sub-stories, interact with a multitude of characters in the game, and solve the puzzles that you encounter. Each of the animated characters has very distinct personalities that you cannot forget even after you long remove the game from your phone or computer.

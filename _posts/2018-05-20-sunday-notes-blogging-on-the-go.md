@@ -1,8 +1,8 @@
 ---
 title:  "Sunday notes - blogging on the go"
 date:   2018-05-20 12:00:00 -0500
-categories: thoughts 
-tags: notes 
+categories: notes 
+tags: tools 
 ---
 
 Busy times ahead for me at Thomson Reuters. Before I talk about that, I am just happy that I managed to find a very convenient way to blog post using Jekyll blogging on GitHub while on the go. My lovely daughter allowed me to use her old iPad Mini 2. She got a new Chromebook but she wanted the Mini for watching Netflix while we travel. So we made the arrangement that she uses the Mini whenever she wants. It's hers after wall but I use it when it is idle... The iPad may be old but it still works like charm. I got myself a Zagg rugged bluetooth keyboard that hooks to the iPad and make the iPad look like a mini computer. I would then be able to carry my "new mini computer" on the go and use it for daily writing, research, and blogging. My big old new Macbook Pro will stay most of the time in my backpack unless I need it to do some really professional coding - something that needs bigger screens and big machines. Other than an old iPad Mini that has now resurrected as a mini computer works so perfectly with what I constantly seek after - a minimalist professional lifestyle.

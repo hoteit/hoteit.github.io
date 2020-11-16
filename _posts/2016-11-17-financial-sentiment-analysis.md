@@ -1,8 +1,8 @@
 ---
 title:  Financial Sentiment Analysis
 date:   2016-11-17 09:14
-categories: journal 
-tags: [phd, nlp, sentiment analysis]
+categories: notes 
+tags: [phd]
 ---
 
 As part of my Phd dissertation at Walden University, I developed an application that would analyze the sentiments of tweets that include the stock symbols of the publicly held firms in the United States and correlate the results with the financial data of such firms during the period of the research.

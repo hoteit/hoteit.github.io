@@ -1,8 +1,8 @@
 ---
 title:  Recalling the PhD experience
 date:   2016-12-03 6:22 AM
-categories: journal 
-tags: [phd, nlp, sentiment analysis]
+categories: notes 
+tags: [phd]
 ---
 
 Woke up at 5am this Saturday morning for some research and work before the family wakes up. While doing some digital

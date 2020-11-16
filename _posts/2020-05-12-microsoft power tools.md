@@ -2,9 +2,9 @@
 
 title: Microsoft Power Tools 
 date: 2020-05-12 17:16
-categories: thoughts 
+categories: notes 
 author: Tarek Hoteit 
-tags: [notes]
+tags: [tools]
 summary: 
 ---
 

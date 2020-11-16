@@ -2,7 +2,7 @@
 title: Innovation @ Banfield
 date: 2019-12-14T08:58:11-08:00
 categories: activities
-tags: [notes, banfield]
+tags: [career]
 ---
 
 We do a great deal of innovative activities here at Banfield. Like any innovation, some ideas become successful and would scale, while other ideas would get tested but may not necessarily see the light. But, more importantly, the meeting of minds and the energy of trying different things is a strong motivation for success and development. We at Banfield are seriously passionate innovators, drivers, supporters, and motivators that want to make a better world for the pets, for the clients, and for our fellow associates. We are the largest privately-held pet care business in the world, and we strive to be at our best to support all those that we care about. We have a great energetic president who inspires us all to be who we are, what we do, and what we can do. We have a great leadership team that embraces positive change. In my role as the senior director of growth and enablement, I am heading the IT innovation and strategy. Below is the 5 pillars of technology innovation that we put together to help communicate the various technology innovation initiatives at Banfield.

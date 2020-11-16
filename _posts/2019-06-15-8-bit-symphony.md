@@ -1,7 +1,7 @@
 ---
 title: 8-bit Symphony
 date: 2019-06-15T07:56:18-07:00
-categories: computing 
+categories: retro-gaming 
 tags: [music, retro, commodore]
 ---
 

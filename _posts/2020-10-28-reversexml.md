@@ -2,9 +2,8 @@
 layout: single
 title: Reverse XML 
 date: 2020-10-28 16:30
-category: journal 
-author: 
-tags: [notes]
+category: activities 
+tags: [publication]
 summary: 
 ---
 

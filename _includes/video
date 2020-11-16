@@ -13,7 +13,9 @@
   {% when "bilibili" %}
     https://player.bilibili.com/player.html?bvid={{ video_id }}&page=1&as_wide=1&high_quality=1&danmaku={{ video_danmaku }}
   {% when "archive" %}
-    https://archive.org/embed/{{ archive_file}}
+    https://archive.org/embed/{{ video_id }}
+  {% when "soundcloud" %}
+    https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ video_id }}
   {% endcase %}
 {% endcapture %}
 {% assign video_src = video_src | strip %}

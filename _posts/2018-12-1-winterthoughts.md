@@ -1,8 +1,8 @@
 ---
 title:  "Some Winter Thoughts"
 date:   2018-12-2 09:31:00 -0500
-categories: thoughts 
-tags: [notes]
+categories: notes 
+tags: [thoughts]
 ---
 Various thoughts I felt like posting on different occasions on LinkedIn.
 

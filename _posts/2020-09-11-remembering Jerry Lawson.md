@@ -1,7 +1,7 @@
 ---
 title: Remembering Jerry Lawson 
 date: 2020-09-11 18:37
-category: computing 
+category: computing-history 
 author: 
 tags: [history]
 summary: 

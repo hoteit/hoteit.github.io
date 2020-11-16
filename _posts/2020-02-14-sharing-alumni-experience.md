@@ -1,8 +1,8 @@
 ---
 title: Sharing Alumni Experience
 date: 2020-02-14T08:53:00-08:00
-categories: journal
-tags: notes 
+category: activities
+tags: career 
 ---
 Geeking out on AI, machine learning, computing and medicine, as well as cloud computing and entrepreneurship with fellow professors, doctors, and alumni in Silicon Valley / Paolo Alto this Saturday.
 
