@@ -1,7 +1,7 @@
 ---
 title: BASIC First Lines of Code
 date: 2019-05-16T21:26:55-07:00
-categories: computing 
+category: technologies 
 tags: history 
 ---
 

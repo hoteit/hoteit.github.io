@@ -1,7 +1,7 @@
 ---
 title: Key tech announcements this past week
 date: 2019-05-04T11:20:16-07:00
-categories: computing 
+category: technologies 
 tags: [ai, blockchain, tools] 
 ---
 Key technology announcements in the last few days for software developers, blockchain, and data science. Both Amazon and Microsoft launched their managed blockchain services for general adoption. I expect this to disrupt the blockchain business since it simplifies the process of adopting or integrating blockchain in the development ecosystem. More info [www.coindesk.com/amazon-web-services-opens-blockchain-building-service-up-for-wider-use](www.coindesk.com/amazon-web-services-opens-blockchain-building-service-up-for-wider-use)

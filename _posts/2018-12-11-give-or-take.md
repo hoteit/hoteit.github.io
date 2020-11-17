@@ -1,7 +1,7 @@
 ---
 title:  Give or Take 
 date:   2018-12-11 09:31:00 -0500
-categories: notes
+category: notes
 tags: thoughts 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:  "Dallas ISD Student Event"
 date:   2018-02-24 7:00am
-categories: [activities]
+category: [activities]
 tags: [presentation]
 --- 
  

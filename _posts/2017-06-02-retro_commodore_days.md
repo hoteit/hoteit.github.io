@@ -1,7 +1,7 @@
 ---
 title:  "Retro: Atari & Commodore days 1981-1990"
 date:   2017-06-02
-category: retro-gaming 
+category: retro gaming 
 tags: [atari, commodore]
 ---
 

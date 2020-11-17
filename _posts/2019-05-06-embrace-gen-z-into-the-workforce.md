@@ -1,7 +1,7 @@
 ---
 title: Embrace Gen Z into the Workforce
 date: 2019-05-06T09:18:35-07:00
-categories: notes
+category: notes
 tags: generations 
 
 ---

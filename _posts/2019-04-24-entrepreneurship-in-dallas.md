@@ -1,7 +1,7 @@
 ---
 title: Entrepreneurship in Dallas
 date: 2019-04-24T08:18:09-07:00
-categories: notes
+category: notes
 tags: dallas 
 ---
 

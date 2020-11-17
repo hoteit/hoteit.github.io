@@ -1,7 +1,7 @@
 ---
 title: Watching car races on TV
 date: 2019-05-26T13:18:04-07:00
-categories: notes 
+category: notes 
 tags: [ai]
 ---
 

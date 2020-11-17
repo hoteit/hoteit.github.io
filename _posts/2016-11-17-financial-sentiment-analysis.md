@@ -1,7 +1,7 @@
 ---
 title:  Financial Sentiment Analysis
 date:   2016-11-17 09:14
-categories: notes 
+category: notes 
 tags: [phd]
 ---
 

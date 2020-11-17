@@ -1,7 +1,7 @@
 ---
 title: The old tech is new tech!
 date: 2019-11-10T09:23:59-08:00
-categories: notes
+category: notes
 tags: generations 
 ---
 

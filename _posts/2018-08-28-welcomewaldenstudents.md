@@ -1,7 +1,7 @@
 ---
 title:  "Welcome Walden students to a great new academic year"
 date:   2018-08-24 09:31:00 -0500
-categories: notes 
+category: notes 
 tags: coaching
 ---
 Welcome Walden University students and all students to a great new academic year. It is natural and even expected to feel the high adrenaline when starting the year. Whether picking up new pens and fresh new notebooks for your desk or begin learning with fresh new writings and readings in your digital study environment, every new academic new year is destined to advance your knowledge and take you forward in your goals. Here is my advice to you for a good new year start:

@@ -1,7 +1,7 @@
 ---
 title:  "Build with Watson"
 date:   2018-01-14 8:00pm
-categories: computing 
+category: technologies 
 tags: [iot]
 ---
 

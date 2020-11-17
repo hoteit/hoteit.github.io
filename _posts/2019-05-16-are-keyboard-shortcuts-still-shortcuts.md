@@ -1,7 +1,7 @@
 ---
 title: Are Keyboard Shortcuts Still Shortcuts?
 date: 2019-05-16T21:34:05-07:00
-categories: notes 
+category: notes 
 tags: tools 
 ---
 

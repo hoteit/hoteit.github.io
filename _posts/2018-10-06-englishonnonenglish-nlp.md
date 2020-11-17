@@ -1,7 +1,7 @@
 ---
 title:  "English on non-English NLP and machine learning projects"
 date:   2018-10-6 09:31:00 -0500
-categories: notes 
+category: notes 
 tags: [nlp]
 ---
 

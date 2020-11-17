@@ -1,7 +1,7 @@
 ---
 title:  "Women in tech"
 date:   2018-09-26 09:31:00 -0500
-categories: notes
+category: notes
 tags: thoughts 
 ---
 

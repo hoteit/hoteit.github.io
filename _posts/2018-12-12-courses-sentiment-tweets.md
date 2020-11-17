@@ -2,7 +2,7 @@
 
 title:  "Lightning Talk - Course Sentiment Tweets with AutoML"
 date:   2018-12-12 09:31:00 -0500
-categories: [activities]
+category: [activities]
 tags: [presentation, ai]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:  "AI/ML supporting hometowns of international students: what, how and why?"
 date:   2018-12-06 09:31:00 -0500
-categories: notes
+category: notes
 tags: [nlp]
 ---
 

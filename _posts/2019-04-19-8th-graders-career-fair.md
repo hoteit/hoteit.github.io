@@ -1,7 +1,7 @@
 ---
 title: Cool 8th Graders, Computers & Games!
 date: 2019-04-19T18:55:08-07:00
-categories: activities
+category: activities
 tags: presentation 
 ---
 It is my 3rd year volunteering at Lamar Middle School (Lewisville ISD), a nearby school to our house in Texas. I kept accepting the volunteering task of presenting at its career fair even after my son moved on to high school because I felt a sense of purpose of encouraging new generations in the field of computer science. I estimated to have presented to around 150 8th graders at the school in total between all three times combined. I would first talk about about my past and what I do at the time with Thomson Reuters, and then get into my passion " technologies. Below are some slides about that I presented between 2017 and 2018.

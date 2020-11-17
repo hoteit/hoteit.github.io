@@ -1,7 +1,7 @@
 ---
 title: planes should keep us alive
 date: 2019-05-06T08:16:35-07:00
-categories: notes 
+category: notes 
 tags: thoughts 
 ---
 

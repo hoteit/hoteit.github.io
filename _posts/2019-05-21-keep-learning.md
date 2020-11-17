@@ -1,7 +1,7 @@
 ---
 title: Keep Learning
 date: 2019-05-21T18:59:19-07:00
-categories: notes 
+category: notes 
 tags: coaching 
 ---
 

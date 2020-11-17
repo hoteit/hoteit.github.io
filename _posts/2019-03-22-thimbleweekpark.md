@@ -1,7 +1,7 @@
 ---
 title:  Why 22 hour game-playing and listening to 68 episode podcast matters?
 date:   2019-03-22 09:31:00 -050bb0
-categories: retro-gaming 
+category: retro gaming 
 tags: [video games]
 ---
 

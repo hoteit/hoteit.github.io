@@ -1,7 +1,7 @@
 ---
 title:  "Google AIY"
 date:   2018-01-13 8:00pm
-categories: computing 
+category: technologies 
 tags: [ai, iot]
 ---
 

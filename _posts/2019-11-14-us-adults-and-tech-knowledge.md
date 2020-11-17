@@ -1,7 +1,7 @@
 ---
 title: US adults and tech knowledge
 date: 2019-11-14T09:05:57-08:00
-categories: notes
+category: notes
 tags: research 
 ---
 

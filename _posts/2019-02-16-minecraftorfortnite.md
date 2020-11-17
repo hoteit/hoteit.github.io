@@ -1,7 +1,7 @@
 ---
 title:  "Minecraft or Fortnite for your career?"
 date:   2019-02-16 09:31:00 -050bb0
-categories: notes
+category: notes
 tags: [thoughts]
 ---
 

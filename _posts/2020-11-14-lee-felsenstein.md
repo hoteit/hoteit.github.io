@@ -2,7 +2,7 @@
 layout: single
 title: Lee Felsenstein 
 date: 2020-11-14 11:43
-category: computing-history 
+category: computer-history 
 author: 
 tags: [media]
 summary: 

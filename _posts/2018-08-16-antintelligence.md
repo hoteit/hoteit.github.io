@@ -1,7 +1,7 @@
 ---
 title:  "Ant Intelligence"
 date:   2018-08-16 09:31:00 -0500
-categories: notes 
+category: notes 
 tags: media 
 ---
 

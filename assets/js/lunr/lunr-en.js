@@ -15,7 +15,7 @@ var idx = lunr(function () {
     this.add({
       title: store[item].title,
       excerpt: store[item].excerpt,
-      categories: store[item].categories,
+      category: store[item].categories,
       tags: store[item].tags,
       id: item
     })

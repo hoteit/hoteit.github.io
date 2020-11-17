@@ -2,7 +2,7 @@
 layout: single
 title: Computer and the Mind of Man
 date: 2020-11-16 11:43
-category: computing-history 
+category: computer-history 
 author: 
 tags: [media]
 summary: 

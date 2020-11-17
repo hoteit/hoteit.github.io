@@ -1,7 +1,7 @@
 ---
 title: Innovation @ Banfield
 date: 2019-12-14T08:58:11-08:00
-categories: activities
+category: activities
 tags: [career]
 ---
 

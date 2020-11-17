@@ -1,7 +1,7 @@
 ---
 title:  "X is not Y and is surely not Z in the Digital Age"
 date:   2018-09-30 09:31:00 -0500
-categories: notes 
+category: notes 
 tags: [generations]
 ---
 

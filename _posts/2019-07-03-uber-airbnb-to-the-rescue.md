@@ -1,7 +1,7 @@
 ---
 title: Uber & Airbnb to the rescue
 date: 2019-07-03T08:13:22-07:00
-categories: notes
+category: notes
 tags: [lebanon]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Posting course achievements on social media
 date: 2019-05-16T21:25:27-07:00
-categories: notes 
+category: notes 
 tags: media 
 ---
 

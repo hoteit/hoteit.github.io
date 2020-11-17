@@ -1,7 +1,7 @@
 ---
 title: 'Inventions & Documentations'
 date: 2020-03-18T08:02:00-07:00
-categories: notes
+category: notes
 tags: [history] 
 ---
 

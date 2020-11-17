@@ -1,7 +1,7 @@
 ---
 title:  "Reverse XML - lessons that I learned for millennial sake"
 date:   2017-07-16 7:24 AM 
-categories: notes 
+category: notes 
 tags: [publication] 
 ---
 

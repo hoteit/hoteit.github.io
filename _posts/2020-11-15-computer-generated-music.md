@@ -2,9 +2,9 @@
 layout: single
 title: Computer-generated Music 
 date: 2020-11-15 11:43
-category: computing-history 
+category: computer-history 
 author: 
-tags: [media]
+tags: [media, music]
 summary: 
 ---
 

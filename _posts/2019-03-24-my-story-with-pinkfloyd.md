@@ -1,7 +1,7 @@
 ---
 title:  "My Story with Pink Floyd"
 date:   2019-03-24 09:31:00 -0500
-categories: notes
+category: notes
 tags: [music]
 ---
 

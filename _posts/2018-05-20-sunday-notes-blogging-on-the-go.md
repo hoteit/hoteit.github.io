@@ -1,7 +1,7 @@
 ---
 title:  "Sunday notes - blogging on the go"
 date:   2018-05-20 12:00:00 -0500
-categories: notes 
+category: notes 
 tags: tools 
 ---
 

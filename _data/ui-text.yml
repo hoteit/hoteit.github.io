@@ -21,7 +21,7 @@ en: &DEFAULT_EN
   share_on_label             : "Share on"
   meta_label                 :
   tags_label                 : "Tags:"
-  categories_label           : "Categories:"
+  categories_label           : "category:"
   date_label                 : "Updated:"
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
@@ -1610,7 +1610,7 @@ ca: &DEFAULT_CA
   share_on_label             : "Comparteix a"
   meta_label                 :
   tags_label                 : "Etiquetes:"
-  categories_label           : "Categories:"
+  categories_label           : "category:"
   date_label                 : "Actualitzat:"
   comments_label             : "Deixa un comentari"
   comments_title             : "Comentaris"

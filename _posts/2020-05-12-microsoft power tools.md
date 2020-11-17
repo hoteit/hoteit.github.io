@@ -2,7 +2,7 @@
 
 title: Microsoft Power Tools 
 date: 2020-05-12 17:16
-categories: notes 
+category: notes 
 author: Tarek Hoteit 
 tags: [tools]
 summary: 

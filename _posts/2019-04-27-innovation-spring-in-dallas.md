@@ -1,7 +1,7 @@
 ---
 title: Innovation Spring in Dallas!
 date: 2019-04-27T22:03:22-07:00
-categories: activities 
+category: activities 
 tags: events 
 ---
 I participated in several events around Dallas this month of April, and each one is proving more and more that Dallas is a great hub for innovation. Here is my journal log about the [2019 Dallas Startup Week](https://www.dallasstartupweek.com/) for April 1-5, followed by the Dallas Innovation Roadshow bus tour on April 24, and concluding with students talk about innovation at the [2019 DCCCD STEM](https://www.foundation.dcccd.edu/email-messages/stem-summit-save-the-date) Summit last Friday, April 26.

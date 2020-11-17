@@ -1,9 +1,9 @@
 ---
 title: Technology Evolution Through Pac-Man 
 date: 2020-05-22 09:11
-category: computing 
+category: computer-history 
 author: Tarek Hoteit 
-tags: [video games, retro, ai, pacman]
+tags: [video games,ai,pacman,atari]
 summary: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: b2b companies should hire like b2c
 date: 2019-04-12T16:28:58-07:00
-categories: notes 
+category: notes 
 tags: thoughts 
 ---
 

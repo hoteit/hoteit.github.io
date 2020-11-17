@@ -1,7 +1,7 @@
 ---
 title: Dallas Startup Week - Scaling without stagnating for corporate firms'
 date: 2019-04-05T16:27:08-07:00
-categories: activities
+category: activities
 tags: [presentation]
 ---
 

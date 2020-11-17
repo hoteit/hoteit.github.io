@@ -1,7 +1,7 @@
 ---
 title: 'Apple “Think Different”  1997 Ad'
 date: 2020-01-11T10:19:30-08:00
-categories: computing-history 
+category: computer-history 
 tags: history
 
 ---

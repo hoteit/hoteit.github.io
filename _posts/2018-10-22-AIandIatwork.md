@@ -1,7 +1,7 @@
 ---
 title:  "'AI & I at Work' – University of Texas at Dallas MIS Club Presentation"
 date:   2018-10-22 09:31:00 -0500
-categories: [activities]
+category: [activities]
 tags: [presentation, ai] 
 ---
 

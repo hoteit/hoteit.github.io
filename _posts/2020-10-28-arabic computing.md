@@ -2,7 +2,7 @@
 layout: single
 title: Arabic Computing 
 date: 2020-10-28 11:40
-category: computing 
+category: technologies 
 author: 
 tags: [arabic]
 summary: 

@@ -4,7 +4,7 @@ title: Computing Shows
 date: 2020-10-28 16:23
 category: vintage-computing 
 author: 
-tags: [media, video games, retro]
+tags: [media, video games]
 summary: 
 ---
 

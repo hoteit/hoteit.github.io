@@ -1,8 +1,8 @@
 ---
 title: 8-bit Symphony
 date: 2019-06-15T07:56:18-07:00
-categories: retro-gaming 
-tags: [music, retro, commodore]
+category: retro gaming 
+tags: [music, commodore]
 ---
 
 If you are a fan of 8 bit retro computer games, especially the Commodore 64, combined with a mixture of symphonic orchestra and modern day electronic music sensation for the gaming generation, watch the live stream of 8-bit Symphony and Commodore 64 at 12cst for free on YouTube's c64audio channel or Twitch [https://c64audio.com](https://c64audio.com). Music includes Imagine Ocean (Comic Bakery, Ocean Loader, Rambo), Green Beret/Rush 'n' Attack, W.A.R., William Wobbler, Forbidden Forest and Beyond, Kentilla, Ghosts 'n Goblins, Flash Gordon, Barbarillax (Barbarian 2/Parallax High Score), International Karate, Aztec Challenge, Last Ninja(R) Wastelands, Monty on the Run High Score, Firelord, Trap, Monty on the Run, Stifflip and Co.

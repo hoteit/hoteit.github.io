@@ -1,7 +1,7 @@
 ---
 title: AI & Games at Grade 8 Career Fair
 date: 2019-04-18T06:30:40-07:00
-categories: activities
+category: activities
 tags: [presentation]
 ---
 

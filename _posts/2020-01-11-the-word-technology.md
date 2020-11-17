@@ -1,7 +1,7 @@
 ---
 title: The word “Technology”
 date: 2020-01-11T10:21:20-08:00
-categories: notes 
+category: notes 
 tags: thoughts 
 
 ---

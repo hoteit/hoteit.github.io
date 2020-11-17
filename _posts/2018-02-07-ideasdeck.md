@@ -1,7 +1,7 @@
 ---
 title:  "Dallas Data Science Conference 2018"
 date:   2018-02-07 3:00pm
-categories: [activities]
+category: [activities]
 tags: [presentation, ai, iot]
 --- 
 

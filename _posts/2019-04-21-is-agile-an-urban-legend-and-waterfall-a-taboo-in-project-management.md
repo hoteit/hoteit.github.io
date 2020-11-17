@@ -1,7 +1,7 @@
 ---
 title: Is agile an urban legend and waterfall a taboo in project management?
 date: 2019-04-21T12:20:01-07:00
-categories: notes
+category: notes
 tags: thoughts 
 ---
 
