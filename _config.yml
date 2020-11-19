@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Tarek Hoteit"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #/assets/images/tarek.jpg
   bio              : "Professional techie, retro gamer, and vintage computing enthusiast."
   location         : "Washington"
   email            : "tarek@leb.ai"
