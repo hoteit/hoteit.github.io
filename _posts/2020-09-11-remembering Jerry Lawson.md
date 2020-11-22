@@ -1,7 +1,7 @@
 ---
 title: Remembering Jerry Lawson 
 date: 2020-09-11 18:37
-category: computer-history 
+category: vintage-computing 
 author: 
 tags: [history, atari]
 summary: 
