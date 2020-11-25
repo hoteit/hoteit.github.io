@@ -1,7 +1,7 @@
 ---
 title: Signed copy of Adam Osborne's book 
 date: 2020-09-17 07:14
-category: vintage-computing 
+category: vintage computing 
 author: 
 tags: [collections, history]
 summary: 

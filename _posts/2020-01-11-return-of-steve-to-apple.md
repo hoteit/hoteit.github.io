@@ -1,7 +1,7 @@
 ---
 title: Return of Steve to Apple
 date: 2020-01-11T10:17:04-08:00
-category: technologies
+category: technology
 tags: history 
 ---
 P# 2 of Steve Jobs post

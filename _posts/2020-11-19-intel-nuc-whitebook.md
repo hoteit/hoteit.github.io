@@ -2,7 +2,7 @@
 layout: single
 title: Intel NUC Whitebook 
 date: 2020-11-19 17:10
-category: technologies
+category: technology
 author: 
 tags: [thoughts]
 summary: 

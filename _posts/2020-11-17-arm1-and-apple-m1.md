@@ -2,7 +2,7 @@
 layout: single
 title: Arm 1 and Apple m1 
 date: 2020-11-16 11:43
-category: technologies 
+category: technology 
 author: 
 tags: [technology]
 summary: 

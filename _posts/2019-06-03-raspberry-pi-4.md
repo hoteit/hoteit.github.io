@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi 4
 date: 2019-06-03T20:02:55-07:00
-category: technologies 
+category: technology 
 tags: [raspberrypi]
 ---
 

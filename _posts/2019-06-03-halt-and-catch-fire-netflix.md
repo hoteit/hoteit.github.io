@@ -1,7 +1,7 @@
 ---
 title: 'Halt and Catch Fire - Netflix'
 date: 2019-06-03T08:01:36-07:00
-category: vintage-computing 
+category: vintage computing 
 tags: media 
 ---
 

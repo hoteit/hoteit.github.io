@@ -2,7 +2,7 @@
 layout: single
 title: Bibliography of Personal Computers 
 date: 2020-11-09 11:43
-category: vintage-computing 
+category: vintage computing 
 author: 
 tags: [media]
 summary: 

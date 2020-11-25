@@ -2,7 +2,7 @@
 layout: single
 title: Booting DOS from a 10' vinyl 
 date: 2020-11-23 20:10
-category: vintage-computing 
+category: vintage computing 
 author: 
 tags: [dos]
 summary: 

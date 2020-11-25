@@ -2,7 +2,7 @@
 layout: single
 title: Apple Announcement 
 date: 2020-11-10 11:43
-category: technologies 
+category: technology 
 author: 
 tags: [technology]
 summary: 

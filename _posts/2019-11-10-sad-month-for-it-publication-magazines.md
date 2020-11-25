@@ -1,7 +1,7 @@
 ---
 title: Sad month for IT publication magazines
 date: 2019-11-10T09:10:12-08:00
-category: technologies
+category: technology
 tags: history 
 ---
 

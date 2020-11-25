@@ -2,7 +2,7 @@
 layout: single
 title: non-English coding 
 date: 2020-11-12 11:43
-category: technologies 
+category: technology 
 author: 
 tags: [tools]
 summary: 
