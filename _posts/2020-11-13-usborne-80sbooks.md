@@ -2,7 +2,7 @@
 layout: single
 title: Usborne 80s Books 
 date: 2020-11-13 11:43
-category: retro gaming 
+category: retro-gaming 
 author: 
 tags: [retro gaming]
 summary: 

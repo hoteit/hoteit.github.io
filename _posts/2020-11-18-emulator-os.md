@@ -2,7 +2,7 @@
 layout: single
 title: Emupedia Emulator OS
 date: 2020-11-18 16:46
-category: retro gaming 
+category: retro-gaming 
 author: 
 tags: [video games, retro gaming, history]
 summary: 
