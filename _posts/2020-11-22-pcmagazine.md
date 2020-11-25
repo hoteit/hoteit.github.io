@@ -2,7 +2,7 @@
 layout: single
 title: Remembering PC Magazine  
 date: 2020-11-22 10:10
-category: vintage computing 
+category: vintage-computing 
 author: 
 tags: [media]
 summary: 

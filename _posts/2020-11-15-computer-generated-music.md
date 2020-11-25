@@ -2,7 +2,7 @@
 layout: single
 title: Computer-generated Music 
 date: 2020-11-15 11:43
-category: vintage computing 
+category: vintage-computing 
 author: 
 tags: [media, music]
 summary: 

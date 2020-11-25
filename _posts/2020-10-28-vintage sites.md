@@ -2,7 +2,7 @@
 layout: single
 title: Vintage Computing Sites
 date: 2020-10-28 11:44
-category: vintage computing
+category: vintage-computing
 author: 
 tags: [media]
 summary: 
