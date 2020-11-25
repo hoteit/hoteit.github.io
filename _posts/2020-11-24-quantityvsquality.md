@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Game and Watch 
+title: Quantity vs Quality
 date: 2020-11-24 19:10
 category: notes 
 author: 
