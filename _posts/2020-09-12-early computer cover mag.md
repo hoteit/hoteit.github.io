@@ -1,8 +1,7 @@
 ---
 title: Time Magazine 1950 Cover of Mark III
 date: 2020-09-12 21:20
-category: vintage-computing 
-author: Tarek Hoteit
+category: blog 
 tags: [collections, history]
 summary: ready to frame Time Magazine 1950 Cover of Mark III computer
 ---

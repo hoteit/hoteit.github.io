@@ -1,8 +1,8 @@
 ---
 title:  "Minecraft or Fortnite for your career?"
 date:   2019-02-16 09:31:00 -050bb0
-category: notes
-tags: [thoughts]
+category: blog
+tags: [career]
 ---
 
 A common past/present/future dilemma in the professional space is what I learned from yesterday, which job is available today, and what to learn for tomorrow. It gets more complicated as career and family building kicks in, and even more stressful as a person’s age. If you can imagine Past, Present, and Future as building blocks stacked on top of each other, Future bottom, Present in the middle, and Past on top, and the height of each set equals the years of experience, things get interesting.

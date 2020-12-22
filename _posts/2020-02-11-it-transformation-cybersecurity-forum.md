@@ -1,8 +1,8 @@
 ---
 title: 'IT Transformation &amp; Cybersecurity Forum'
 date: 2020-02-11T17:00:00-08:00
-category: activities
-tags: [presentation] 
+category: works 
+tags: [career] 
 ---
  
 

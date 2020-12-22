@@ -1,8 +1,8 @@
 ---
 title:  "Retro: Atari & Commodore days 1981-1990"
 date:   2017-06-02
-category: retro-gaming 
-tags: [atari, commodore]
+category: personal
+tags: [retro]
 ---
 
 This is how my life with computers first started.

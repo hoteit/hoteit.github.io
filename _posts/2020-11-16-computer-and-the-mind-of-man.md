@@ -2,9 +2,9 @@
 layout: single
 title: Computer and the Mind of Man
 date: 2020-11-16 11:43
-category: vintage-computing 
+category: blog 
 author: 
-tags: [media]
+tags: [history, tech]
 summary: 
 ---
 

@@ -2,9 +2,9 @@
 layout: single 
 title: Moved by Java 
 date: 2020-10-30 09:48
-category: notes 
+category: blog 
 author: 
-tags: [history]
+tags: [history, tech]
 summary: 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: The word “Technology”
 date: 2020-01-11T10:21:20-08:00
-category: notes 
-tags: thoughts 
+category: blog 
+tags: tech 
 
 ---
 Origins of the word “technology” : “technology (n.)

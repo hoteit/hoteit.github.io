@@ -2,9 +2,9 @@
 layout: single
 title: Steve Wozniak & Apple II 
 date: 2020-11-19 17:10
-category: vintage-computing
+category: blog 
 author: 
-tags: [apple 2]
+tags: [tech, history]
 summary: 
 ---
 

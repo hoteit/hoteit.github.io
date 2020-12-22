@@ -1,8 +1,8 @@
 ---
 title: Are Keyboard Shortcuts Still Shortcuts?
 date: 2019-05-16T21:34:05-07:00
-category: notes 
-tags: tools 
+category: blog 
+tags: [tech] 
 ---
 
 I remember the time when we as students first learned to program on early versions of PCs and terminal machines connected to a mainframe. Word processor software, namely WordStar and WordPerfect, were your everyday companion to write papers or stories. Productivity utilities for the first personal computers were innovative, especially that that memory allocation and processing power were so scarce. Developers of such tools had to find ingenious ways to create products that do not occupy all the machine resources to leave you with enough capacity for your work and software. What is now common in the development environment, including multitasking, multiple windows, screen splits, live code sharing, containers, cloud storage syncs, wireless headphones while coding, StackOverflow or Google for help, and virtually anything else you do today while coding did not exist a few decades ago. If I would pick up on some technologies that seem to stick around are:

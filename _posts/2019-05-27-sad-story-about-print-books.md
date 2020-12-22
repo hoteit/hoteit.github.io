@@ -1,7 +1,7 @@
 ---
 title: Sad story about print books
 date: 2019-05-27T13:17:41-07:00
-category: notes 
+category: blog 
 tags: [media]
 ---
 

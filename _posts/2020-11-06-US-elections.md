@@ -2,9 +2,9 @@
 layout: single
 title: US Elections 
 date: 2020-11-06 11:43
-category: notes 
+category: blog 
 author: 
-tags: [thoughts]
+tags: [tech]
 summary: 
 ---
 

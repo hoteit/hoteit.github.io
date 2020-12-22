@@ -1,7 +1,7 @@
 ---
 title: Happy new year , techies and all!
 date: 2020-01-01T09:09:38-08:00
-category: notes
+category: blog
 tags: career 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  "Not just the world is round but the technology world is round as well"
 date:   2018-09-16 09:31:00 -0500
-category: notes 
-tags: thoughts
+category: blog 
+tags: [tech]
 ---
 
 If the world is round then so as the technology world is round as well. In the late seventies and eighties, the BASIC language and Assembly Language were hot things at the time. After that, people took on new technologies with the Internet and jumped on languages such as HTML, C, C++, Perl, Python, and JavaScript. Systems moved from 8bit to 64bit. Storage devices moved from cassette tape to the cloud. Typing a program onto the computer moved from copying lines of code from computer magazines onto the computer screen. Issuing the BASIC RUN command and witnessing the executing of the programs felt magic at the time. For those who didn’t live the 8bit era, the same feeling can be felt today when running a Docker script and witnessing your code and servers coming to life. 8bit programmers became the old school, while modern day software engineers and data scientists became the new school. If you ask a Generation Z programmer what Assembly Language is or what is BASIC he or she may not know. But somehow the wonders of the seventies and eighties seem to be returning. Great things never die just like Goonies never say die.

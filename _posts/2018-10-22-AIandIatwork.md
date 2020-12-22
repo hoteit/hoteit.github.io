@@ -1,8 +1,8 @@
 ---
 title:  "'AI & I at Work' – University of Texas at Dallas MIS Club Presentation"
 date:   2018-10-22 09:31:00 -0500
-category: [activities]
-tags: [presentation, ai] 
+category: works
+tags: [data science] 
 ---
 
 Update: Link to the presentation via [DropBox](https://www.dropbox.com/s/atcqh6841noo63j/AI-and-I.pptx?dl=0)  Note: you need to download the presentation and turn it into presentation mode to access the videos. Also, check the [GitHub link for Sentiment-Tweets](https://github.com/hoteit/sentiment-tweets) and the [GitHub link for AutoML Course Reviews](https://github.com/hoteit/coursereviews-automl)

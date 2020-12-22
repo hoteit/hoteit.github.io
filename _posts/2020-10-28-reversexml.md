@@ -2,8 +2,8 @@
 layout: single
 title: Reverse XML 
 date: 2020-10-28 16:30
-category: activities 
-tags: [publication]
+category: works 
+tags: [tech]
 summary: 
 ---
 

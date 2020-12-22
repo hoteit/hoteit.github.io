@@ -2,9 +2,9 @@
 layout: single
 title: non-English coding 
 date: 2020-11-12 11:43
-category: technology 
+category: blog 
 author: 
-tags: [tools]
+tags: [tech]
 summary: 
 ---
 

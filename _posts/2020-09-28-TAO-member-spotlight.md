@@ -1,9 +1,8 @@
 ---
 title: TAO Member Spotlight 
 date: 2020-09-28 18:14
-category: activities
-author: Tarek Hoteit 
-tags: [publication]
+category: works 
+tags: [personal]
 summary: TAO member spotlight 
 ---
 

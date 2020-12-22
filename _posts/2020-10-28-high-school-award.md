@@ -2,9 +2,8 @@
 layout: single
 title: High School Award
 date: 2020-10-28 16:28
-category: activities 
-author: 
-tags: [career]
+category: works 
+tags: [personal]
 summary: 
 ---
 

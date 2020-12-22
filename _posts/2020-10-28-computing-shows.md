@@ -2,9 +2,9 @@
 layout: single
 title: Computing Shows 
 date: 2020-10-28 16:23
-category: vintage-computing 
+category: blog
 author: 
-tags: [media, video games]
+tags: [media, tech]
 summary: 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Embrace Gen Z into the Workforce
 date: 2019-05-06T09:18:35-07:00
-category: notes
-tags: generations 
+category: blog
+tags: [tech] 
 
 ---
 The corporate world should seriously embrace Generation Z into their workforce. Those born after 1997 are entering the workforce this year. Their approach in IT is to build applications with immediate real-world implications. [Check what two GenZ engineers Nisha and Clarisse have to say at a HackerRank interview](https://blog.hackerrank.com/developers-take-gen-z-developers-are-looking-to-make-an-impact-but-not-necessarily-in-silicon-valley/). Also two completely unrelated companies, BBVA Compass, a financial bank, and Skratch, a platform for teenagers, partnered together in Dallas to let teenagers use a mobile app to make money from community activities such as scooping ice cream at school fairs and teaching kids how to mix music like DJs. ([Read more about it](https://dallasinnovates.com/bbva-compass-skratch-collab-to-welcome-gen-z-to-gig-economy).)

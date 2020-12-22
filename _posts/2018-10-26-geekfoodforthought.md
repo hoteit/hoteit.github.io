@@ -1,8 +1,8 @@
 ---
 title:  "'Applied AI/ML in the Workplace – Geek Food for Thought' – UT Austin presentation"
 date:   2018-10-26 09:31:00 -0500
-category: [activities]
-tags: [presentation, ai]
+category: works
+tags: [data science]
 ---
 
 Last Thursday we presented “Applied AI/ML in the Workplace –

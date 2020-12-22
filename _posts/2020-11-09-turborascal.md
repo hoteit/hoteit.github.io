@@ -2,9 +2,8 @@
 layout: single
 title: Turbo Rascal 
 date: 2020-11-08 11:43
-category: retro-gaming 
-author: 
-tags: [retro gaming,atari,commodore]
+category: blog
+tags: [retro, tech]
 summary: 
 ---
 

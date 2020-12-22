@@ -2,9 +2,9 @@
 layout: single
 title: CMU Hearsay I
 date: 2020-10-28 16:36
-category: vintage-computing 
+category: blog 
 author: 
-tags: [history, nlp]
+tags: [history, tech]
 summary: 
 ---
 

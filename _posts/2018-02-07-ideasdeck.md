@@ -1,8 +1,8 @@
 ---
 title:  "Dallas Data Science Conference 2018"
 date:   2018-02-07 3:00pm
-category: [activities]
-tags: [presentation, ai, iot]
+category: works
+tags: [data science]
 --- 
 
 I presented at IDEA 2018 Dallas Data Science conference. At the conference, I demos Google Collab, Google AIY with Raspberry PI, and even ran a basic machine learning simulation for the Commodore 64 :)

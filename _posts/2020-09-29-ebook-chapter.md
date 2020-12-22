@@ -1,9 +1,9 @@
 ---
 title: ebook chapter "IT Must Tell Its Story Better to Enable Business Success" 
 date: 2020-09-29 18:04
-category: activities
+category: works
 author: Tarek Hoteit 
-tags: [publication]
+tags: [tech]
 summary: ebook chapter released
 ---
 

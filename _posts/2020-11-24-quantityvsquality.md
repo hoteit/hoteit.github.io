@@ -2,9 +2,9 @@
 layout: single
 title: Quantity vs Quality
 date: 2020-11-24 19:10
-category: notes 
+category: blog 
 author: 
-tags: thoughts
+tags: [tech] 
 summary: 
 ---
 

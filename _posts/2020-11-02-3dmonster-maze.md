@@ -2,9 +2,9 @@
 layout: single 
 title: 3D Monster Maze
 date: 2020-10-30 09:51
-category: retro-gaming 
+category: blog
 author: 
-tags: [spectrum, amstrad]
+tags: [retro, history]
 summary: 
 ---
 

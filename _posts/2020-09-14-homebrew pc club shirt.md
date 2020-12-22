@@ -1,8 +1,7 @@
 ---
 title: My Home Brew Computer Club shirt
 date: 2020-09-14 07:08
-category: vintage-computing 
-author: 
+category: blog 
 tags: [collections, history]
 summary: 
 ---

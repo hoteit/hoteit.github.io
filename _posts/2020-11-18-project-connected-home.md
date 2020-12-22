@@ -2,9 +2,9 @@
 layout: single
 title: Project Connected Home over IP 
 date: 2020-11-18 17:10
-category: technology
+category: blog 
 author: 
-tags: [iot]
+tags: [tech]
 summary: 
 ---
 

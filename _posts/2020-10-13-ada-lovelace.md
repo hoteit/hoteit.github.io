@@ -2,9 +2,8 @@
 layout: single 
 title: Ada Lovelace
 date: 2020-10-13 16:18
-category: technology 
-author: 
-tags: [raspberrypi, generations, history]
+category: blog 
+tags: [tech]
 summary: 
 ---
 

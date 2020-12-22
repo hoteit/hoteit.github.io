@@ -1,7 +1,7 @@
 ---
 title:  Recalling the PhD experience
 date:   2016-12-03 6:22 AM
-category: notes 
+category: blog 
 tags: [phd]
 ---
 

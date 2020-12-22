@@ -2,9 +2,9 @@
 layout: single
 title: Jupyter Labs & VIM Editor
 date: 2020-11-25 9:00
-category: technology 
+category: blog
 author: 
-tags: [coding, data science]
+tags: [tech]
 summary: 
 ---
 

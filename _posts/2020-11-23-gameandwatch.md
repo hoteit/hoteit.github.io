@@ -2,9 +2,9 @@
 layout: single
 title: Game and Watch 
 date: 2020-11-23 19:10
-category: retro-gaming 
+category: blog
 author: 
-tags: [retro gaming, video games]
+tags: [retro]
 summary: 
 ---
 

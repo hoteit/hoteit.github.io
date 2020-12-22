@@ -1,8 +1,8 @@
 ---
 title:  "Reverse XML - lessons that I learned for millennial sake"
 date:   2017-07-16 7:24 AM 
-category: activities 
-tags: [publication] 
+category: blog 
+tags: [career] 
 ---
 
 In April of 2001, I was so much into [XML](https://en.wikipedia.org/wiki/XML) and had some innovative ideas of my own.

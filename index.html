@@ -2,3 +2,19 @@
 layout: home
 author_profile: true
 ---
+
+
+<div>
+	<div class="flexslider">
+		<ul class="slides">
+	  		{% for slide in site.slideshow %}
+	  		<li>
+	  			<!--<a href="{{ site.url}}{{ page.permalink }}">-->
+		    		<img src="{{ slide.image }}">
+		    		<p class="flex-caption">{{ slide.title }}</p>
+		    	<!--</a> -->
+	 		</li>
+	  		{% endfor %}
+		</ul>
+	</div>
+</div>

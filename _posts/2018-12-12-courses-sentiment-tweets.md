@@ -2,8 +2,8 @@
 
 title:  "Lightning Talk - Course Sentiment Tweets with AutoML"
 date:   2018-12-12 09:31:00 -0500
-category: [activities]
-tags: [presentation, ai]
+category: works 
+tags: [data science]
 ---
 
 I presented a 15-minute lightning talk on leveraging AutoML for sentiment analysis.

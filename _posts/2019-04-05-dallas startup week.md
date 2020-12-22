@@ -1,8 +1,8 @@
 ---
 title: Dallas Startup Week - Scaling without stagnating for corporate firms'
 date: 2019-04-05T16:27:08-07:00
-category: activities
-tags: [presentation]
+category: works
+tags: [career]
 ---
 
 It was a pleasure and honor to represent [Thomson Reuters](https://www.linkedin.com/company/1400/) at the panel on "scaling without stagnating" as part of corporate innovation. The event was hosted by Capital One and sponsored by [Dallas Innovates](https://www.linkedin.com/company/10388908/) as part of [#dallasstartupweek](https://www.linkedin.com/feed/hashtag/?keywords=%23dallasstartupweek). The panelists [Dalia Powers](https://www.linkedin.com/in/ACoAAAJL9ZYB_Pmhw8u9zFy8FCFW4Oxv_V3yI6I/) (CBRE VP/CIO & panelist moderator), [Sterling Mah Ingui](https://www.linkedin.com/in/ACoAAABayUUBjVQIYbGg9RQusZSP7ddzd33Es5Q/) (Head of Go To Markets Fidelity Labs), [Scott Emmons](https://www.linkedin.com/in/ACoAAACFxigBb4vz8amL_Cr9YHmcl5ZO_-Bqkd8/) (The Current Global CTO), [Sean Minter](https://www.linkedin.com/in/ACoAAAF_1jYBPNgVHizJz6lBdXGmAsNC4e9mtZU/) (AmplifAI CEO), [Charlie Lass](https://www.linkedin.com/in/ACoAAABSCEMBTfPqdmbNAdMmvQSpaXbxT60nwqE/) (MIT investor) and myself [Tarek Hoteit](https://www.linkedin.com/in/ACoAAALnYDEB6NsGhVQKtqfYBwvDqhWaeTxht8E/) (Thomson Reuters Labs) took turns discussing leadership, people, organization, process/change management, and technology to support innovation in the corporate world. For me it was also an opportunity to let startups in Dallas to know about [Thomson Reuters](https://www.linkedin.com/company/1400/), [Thomson Reuters Labs](http://labs.tr.com) and our community engagements in Dallas. I even shared my personal journey on a major transformation of a product as part of corporate innovation hoping to encourage everyone not to give up and do the same and more. We also answered questions from the audience such as how startups can interact with corporate (my answer: persistence is key but if someone from corporate is ignoring you, find another contact. Don't give up

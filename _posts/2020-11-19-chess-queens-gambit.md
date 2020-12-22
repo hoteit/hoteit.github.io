@@ -2,9 +2,9 @@
 layout: single
 title: Chess Queens Gambit 
 date: 2020-11-19 17:10
-category: notes
+category: blog
 author: 
-tags: [thoughts, chess]
+tags: [media]
 summary: 
 ---
 

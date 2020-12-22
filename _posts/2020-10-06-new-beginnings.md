@@ -1,9 +1,8 @@
 ---
 title: New beginnings in enterprise IT 
 date: 2020-10-06 05:32
-category: technology
-author: 
-tags: [iot, ai]
+category: blog 
+tags: [tech]
 summary: 
 ---
 

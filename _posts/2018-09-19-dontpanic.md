@@ -1,8 +1,8 @@
 ---
 title:  "Don’t Panic. Focus and Learn New Skills"
 date:   2018-09-19 09:31:00 -0500
-category: notes 
-tags: coaching 
+category: blog 
+tags: career 
 ---
 
 Technical professionals are under pressure to learn something new for fear of missing out on the latest technologies. Non-technical professionals fear that technology and automation will take their roles away, so they are also under pressure to learn something new too. All for the same reasons – fear of missing out or losing their value. Fear takes over their minds. They begin to panic. So they open books, take courses online, or maybe join colleges again. The panic is still there because they are possibly sensing that the time to learn new things is probably too late. They started to have feelings of guilt and hopelessness – saying “why didn’t I learn this before?” Or “why did I pick this topic when there is now something new that I should have learned already.” Panic. Panic. What happens then? Sadness. Hopelessness. Anxiety. Guilt. All such negative emotions would take over their mind when what you should be focusing on positive development and learning. Yes, people multitask constantly, but it is not easy to be sad and stay focused at the same time. So what to do? Give up, no! Rush to learn every new thing out there? There is no time! What to do?

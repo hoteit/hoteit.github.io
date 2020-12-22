@@ -1,0 +1,7 @@
+---
+name: Samir N 
+position: Data Scientist
+order: 22.5 
+---
+
+I worked under Tarek this summer, as a Data-Science intern. Throughout my summer, he never failed to amaze me. His passion for technology and innovation is unparalleled by any one in the work-force. He is always informed on the latest technologies, and constantly broadening his knowledge base. He dedicates everything to work, then goes home takes care of his family, and is still publishing papers and learning new software. Personally, he served as my boss and a mentor throughout my internship, and was definitely the reason my experience was as valuable as it was. Tarek pushed for innovative projects for interns, allowing for us to see the potential of technology at a relatively traditional company like TR. He gave us a chance to make an impact on the company, and provided me exposure to many talented individuals in the company. He gave me advice, challenged me, and always saw the next step, even when I didn't. Tarek also fosters a great team environment; everyone is excited to see him, and he genuinely cares about what is going in his employee's lifes. Tarek is a visionary, an enthusiast; he has suggested technological innovations at TR five years before they were implemented. In my personal opinion, a man with his intelligence, enthusiasm, and drive should be leading the technology division of an entire company. 
