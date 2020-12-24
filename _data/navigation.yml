@@ -10,6 +10,8 @@ main:
     url: /tags/
   - title: "Posts"
     url: /posts/
+  - title: "Retro"
+    url: /retro
   - title: "About"
     url: /about/
   # - title: "About"
