@@ -15,7 +15,7 @@
   {% when "archive" %}
     https://archive.org/embed/{{ video_id }}
   {% when "att" %}
-    https://techchannel.att.com/embed/index?mediaID={{ video_id }}&w=640&h=360
+    https://techchannel.att.com/embed/index?mediaID={{ video_id }}
   {% when "soundcloud" %}
     https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ video_id }}
   {% endcase %}
